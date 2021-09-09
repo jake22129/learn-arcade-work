@@ -1,4 +1,4 @@
-print("Hello")
+print("Hello!")
 print("I play baseball at Simpson College.")
 print("My teammates and I have a baseball scrimmage tongiht.")
 print("This is my first time trying an escape code: \" Hopefully it works!")
