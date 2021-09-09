@@ -1,0 +1,6 @@
+print("Hello")
+print("I play baseball at Simpson College.")
+print("My teammates and I have a baseball scrimmage tongiht.")
+print("This is my first time trying an escape code: \" Hopefully it works!")
+print("How do you make a Kleenex dance \"Put a little boogy in it. That is such an over-used Halloween joke.")
+print("I\nam\nexcited\nfor\ncooler\nweather\nto\ncome.")
